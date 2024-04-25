@@ -1,1 +1,2 @@
-# get4
+#include<iostream>
+using namespace std;
